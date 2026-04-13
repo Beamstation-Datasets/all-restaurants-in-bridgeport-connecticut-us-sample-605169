@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Bridgeport, Connecticut with a population of over 148k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Bridgeport, Connecticut, US",
+  "export_job_id": "b8bb6c03-6200-4f42-bb01-8e62884d3355",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 605169,
+  "location_name": "Bridgeport",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-bridgeport-connecticut-us-sample-605169",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/605169/beamstation_605169_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_pct": 3.43,
+  "sample_records": 25,
+  "sample_sha256": "7e95040d909d0464d08263ea36e18a5e7db99340ac652623528c26693506dd61",
+  "sample_size_bytes": 115378,
+  "total_records": 729,
+  "updated_at": "2026-03-31T13:04:48.339019+00:00"
+}
