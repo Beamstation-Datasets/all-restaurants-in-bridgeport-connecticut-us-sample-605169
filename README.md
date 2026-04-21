@@ -1,6 +1,6 @@
 # All Restaurants in Bridgeport, Connecticut, US
 
-> Free BeamStation sample export with 87 rows and masked direct-contact fields.
+> Free BeamStation sample export with 66 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `605169` |
 | Location | Bridgeport |
 | Category | Restaurants |
-| Full dataset size | 871 records |
-| Free sample size | 87 records (9.99%) |
-| Last export | 2026-04-14T13:25:04.790666+00:00 |
+| Full dataset size | 661 records |
+| Free sample size | 66 records (9.98%) |
+| Last export | 2026-04-21T14:20:15.465720+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-bridgeport-connecticut-us-sample-605169/releases/download/sample-latest/beamstation_605169_restaurants-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
