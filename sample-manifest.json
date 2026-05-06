@@ -1,12 +1,12 @@
 {
-  "export_job_id": "29b6f6bf-23ac-46b0-a4f2-164b74661ecc",
+  "export_job_id": "04681fea-de77-4bc0-a994-3e762fcecbe1",
   "id_short": 605169,
-  "published_at": "2026-04-28T19:45:34Z",
+  "published_at": "2026-05-06T19:12:22Z",
   "repo_name": "all-restaurants-in-bridgeport-connecticut-us-sample-605169",
   "sample_asset_name": "beamstation_605169_restaurants-us-ct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/605169/beamstation_605169_restaurants-us-ct_SAMPLE_DIST.csv",
-  "sample_records": 86,
-  "sample_sha256": "4922ae1c39875b1b50c7d1a92b450c1738ce193b4331b488b228af31c2ddf0eb",
-  "sample_size_bytes": 288498,
-  "total_records": 863
+  "sample_records": 89,
+  "sample_sha256": "46b6910cc60df166888834f8f8a43c39a3290d17fd02c32b30672f8d3e52edff",
+  "sample_size_bytes": 312349,
+  "total_records": 898
 }
